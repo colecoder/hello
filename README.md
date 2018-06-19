@@ -1,3 +1,3 @@
 # Project Hello
 
-和可乐一起学 Git
+A git tutorial.
