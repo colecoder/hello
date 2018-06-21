@@ -1,1 +1,2 @@
-print('42')
+# say hello
+print('hey, world')
