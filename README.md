@@ -1,3 +1,3 @@
 # Project Hello
 
-A git tutorial.
+A git tutorial from ColeCode.
