@@ -2,6 +2,6 @@
 
 Modified by Keke.
 
-A git tutorial from ColeCode.
+A Git tutorial from ColeCode.
 
 Modified by Lele.
