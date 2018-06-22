@@ -1,6 +1,6 @@
 # Project Hello
 
-Added by Keke.
+Modified by Keke.
 
 A git tutorial from ColeCode.
 
