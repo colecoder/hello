@@ -1,5 +1,7 @@
 # Project Hello
 
+Someone updated README.
+
 Modified by Keke.
 
 A Git tutorial from Colecode.
