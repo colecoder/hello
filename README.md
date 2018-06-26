@@ -8,7 +8,6 @@ A Git tutorial from Colecode.
 
 Modified by Lele.
 
-Added feature A.
-Added feature B.
+Awesome Git Flow.
 
 This is a new feature.
