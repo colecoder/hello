@@ -11,3 +11,5 @@ Modified by Lele.
 Awesome Git Flow.
 
 This is a new feature.
+
+There is no bug, you found an undocumented feature.
