@@ -1,2 +1,2 @@
 # say branch name
-print('master')
+print('hey, no fight please')
