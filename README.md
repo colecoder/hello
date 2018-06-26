@@ -9,3 +9,4 @@ A Git tutorial from Colecode.
 Modified by Lele.
 
 Added feature A.
+Added feature B.
