@@ -10,3 +10,5 @@ Modified by Lele.
 
 Added feature A.
 Added feature B.
+
+This is a new feature.
